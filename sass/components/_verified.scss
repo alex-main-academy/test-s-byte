@@ -1,0 +1,42 @@
+.verified {
+    height: 50%;
+    background-image: url(../img/image-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 71px 0 0 54px;
+    color: var(--white-text-color);
+}
+
+.verified__title {
+    font-size: 45px;
+    line-height: 1.45;
+    font-weight: lighter;
+    font-family: inherit;
+    margin-bottom: 28px;
+
+    span {
+        font-weight: bold;
+    }
+}
+
+.verified__text {
+    font-size: 16px;
+    line-height: 1.75;
+    max-width: 558px;
+    margin-bottom: 53px;
+}
+
+.verified__button {
+    padding: 17px 0;
+    width: 213px;
+    text-align: center;
+    background-color: transparent;
+    color: inherit;
+
+    border: 1px solid #ffffff;
+    border-radius: 11px;
+    cursor: pointer;
+
+    font-size: 17px;
+}

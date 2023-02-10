@@ -1,0 +1,11 @@
+// global styled
+@import './variables/variables';
+@import './reset/reset';
+@import './utils/utils';
+
+// components
+@import './components/header';
+@import './components/drawing';
+@import './components/starting';
+@import './components/verified';
+@import './components/footer';

@@ -1,0 +1,20 @@
+body {
+    color: var(--white-text-color);
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000;
+}
+
+.main {
+    .container {
+        display: flex;
+    }
+
+    .main__block {
+        width: 755px;
+    }
+}
+
+.container {
+    max-width: 1370px;
+    margin: 0 auto;
+}
